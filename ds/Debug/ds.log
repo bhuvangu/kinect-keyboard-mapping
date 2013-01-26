@@ -1,0 +1,148 @@
+﻿Build started 12/3/2011 1:30:43 PM.
+     1>Project "F:\Visual Studio 2010\Projects\ds\ds\ds.vcxproj" on node 2 (build target(s)).
+     1>ResolveAssemblyReferences:
+         Primary reference "InputManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null".
+     1>E:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(1360,9): warning MSB3245: Could not resolve this reference. Could not locate the assembly "InputManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors.
+                 For SearchPath "E:\Program Files\Microsoft Visual Studio 10.0\VC\atlmfc\lib".
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\VC\atlmfc\lib\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\VC\atlmfc\lib\InputManager.exe", but it didn't exist.
+                 For SearchPath "E:\Program Files\Microsoft Visual Studio 10.0\VC\lib".
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\VC\lib\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\VC\lib\InputManager.exe", but it didn't exist.
+                 For SearchPath "{HintPathFromItem}".
+                 Considered "..\..\..\..\..\Desktop\InputManager\bin\Release\InputManager.dll", but it didn't exist.
+                 For SearchPath "{TargetFrameworkDirectory}".
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\InputManager.exe", but it didn't exist.
+                 For SearchPath "{Registry:Software\Microsoft\.NETFramework,v4.0,AssemblyFoldersEx}".
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v4.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v4.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTO40\v4.0.Framework\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTO40\v4.0.Framework\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v9.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v9.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v8.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v8.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v10.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v10.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office14\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office14\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office12\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office12\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Common\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Common\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\SharePoint\PublicAssemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\SharePoint\PublicAssemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\x64\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\x64\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Itanium\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Platforms\Itanium\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\MSBuild\Microsoft.Cpp\v4.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Synchronization Services\ADO.NET\v1.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Synchronization Services\ADO.NET\v1.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PublicAssemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\PublicAssemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft.NET\Primary Interop Assemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft.NET\Primary Interop Assemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\FSharp\2.0\Runtime\v4.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\FSharp\2.0\Runtime\v4.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\VSTSDB\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\VSTSDB\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v2.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v2.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTO40\v9.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTO40\v9.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTO40\v10.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTO40\v10.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v9.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v9.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v10.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VSTA30\v10.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office14\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office14\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office12\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office12\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Common\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Common\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\SharePoint\PublicAssemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\Extensions\Microsoft\SharePoint\PublicAssemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\VBPowerPacks\v10.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v2.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssemblies\v2.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Synchronization Services\ADO.NET\v1.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Synchronization Services\ADO.NET\v1.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SDKs\Microsoft Sync Framework\v1.0\Runtime\ADO.NET\V2.0\x86\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SDKs\Microsoft Sync Framework\v1.0\Runtime\ADO.NET\V2.0\x86\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Visual Studio 10.0\ReportViewer\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Common Files\Microsoft Shared\MSEnv\PublicAssemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\FSharp\2.0\Runtime\v2.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\FSharp\2.0\Runtime\v2.0\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SDKs\Microsoft Sync Framework\v1.0\Runtime\x86\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft SDKs\Microsoft Sync Framework\v1.0\Runtime\x86\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Chart Controls\Assemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft Chart Controls\Assemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft ASP.NET\ASP.NET MVC 2\Assemblies\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Microsoft ASP.NET\ASP.NET MVC 2\Assemblies\InputManager.exe", but it didn't exist.
+                 For SearchPath "{AssemblyFolders}".
+                 Considered "E:\Program Files\Windows Installer XML v3.5\SDK\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Windows Installer XML v3.5\SDK\InputManager.exe", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\DTS\Tasks\InputManager.dll", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\DTS\Tasks\InputManager.exe", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\InputManager.dll", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\InputManager.exe", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft.NET\ADOMD.NET\100\InputManager.dll", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft.NET\ADOMD.NET\100\InputManager.exe", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\InputManager.dll", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\IIS\Microsoft Web Deploy\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\IIS\Microsoft Web Deploy\InputManager.exe", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\DTS\PipelineComponents\InputManager.dll", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\DTS\PipelineComponents\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\InputManager.exe", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\InputManager.dll", but it didn't exist.
+                 Considered "E:\Program Files\Reference Assemblies\Microsoft\Framework\v3.0\InputManager.exe", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\DTS\ForEachEnumerators\InputManager.dll", but it didn't exist.
+                 Considered "e:\Program Files\Microsoft SQL Server\100\DTS\ForEachEnumerators\InputManager.exe", but it didn't exist.
+                 For SearchPath "{GAC}".
+                 Considered "InputManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", which was not found in the GAC.
+                 For SearchPath "{RawFileName}".
+                 Considered treating "InputManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" as a file name, but it didn't exist.
+                 For SearchPath "F:\Visual Studio 2010\Projects\ds\Debug\".
+                 Considered "F:\Visual Studio 2010\Projects\ds\Debug\InputManager.dll", but it didn't exist.
+                 Considered "F:\Visual Studio 2010\Projects\ds\Debug\InputManager.exe", but it didn't exist.
+       InitializeBuildStatus:
+         Creating "Debug\ds.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ds.vcxproj -> F:\Visual Studio 2010\Projects\ds\Debug\ds.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ds.unsuccessfulbuild".
+         Touching "Debug\ds.lastbuildstate".
+     1>Done Building Project "F:\Visual Studio 2010\Projects\ds\ds\ds.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73
